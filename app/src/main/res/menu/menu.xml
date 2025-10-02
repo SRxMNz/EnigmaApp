@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/navExplorar"
+            android:enabled="true"
+            android:icon="@drawable/explorar"
+            android:title="explorar"/>
+        <item
+            android:id="@+id/navPesquisar"
+            android:enabled="true"
+            android:icon="@drawable/pesquisar"
+            android:title="pesquisar"/>
+
+    <item
+            android:id="@+id/navConfig"
+            android:enabled="true"
+            android:icon="@drawable/config"
+            android:title="configurações"/>
+
+
+</menu>
